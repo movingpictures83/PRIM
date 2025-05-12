@@ -1,0 +1,2 @@
+Prefix plugins/PRIM/example/
+Plugin PRIM inputfile parameters.train.txt outputfile output.rds
